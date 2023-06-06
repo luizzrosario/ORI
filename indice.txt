@@ -1,0 +1,47 @@
+era:
+era: 1,1
+casa:
+casa: 1,1
+muito:
+muito: 1,1
+engracada:
+engracada: 1,1
+tinha:
+tinha: 1,1
+teto:
+teto: 1,1
+tinha: 1,1
+nada:
+nada: 1,1
+quem:
+quem: 2,1
+casa: 2,1
+quer:
+quer: 2,1
+casa: 2,1
+quem: 2,1
+mora:
+mora: 2,1
+casa: 2,1
+tambem:
+tambem: 2,1
+quer: 2,1
+casa: 2,1
+quer: 3,1
+casar:
+casar: 3,1
+comigo:
+comigo: 3,1
+amor:
+amor: 3,1
+quer: 3,1
+casar: 3,1
+comigo: 3,1
+faca:
+faca: 3,1
+favor:
+favor: 3,1
+mora: 3,1
+minha:
+minha: 3,1
+casa: 3,1
