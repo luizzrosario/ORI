@@ -44,12 +44,12 @@ public class Main {
                             index.add(entry);
                         }
                         entry += fileIndex + "," + lineIndex + " ";
-
+    
                         int entryIndex = index.indexOf(entry);
                         if (entryIndex != -1) {
-                            index.set(entryIndex, entry.trim());
+                            index.set(entryIndex, entry);
                         } else {
-                            index.add(entry.trim());
+                            index.add(entry);
                         }
                     }
                 }
@@ -59,10 +59,11 @@ public class Main {
         }
         return index;
     }
+    
 
     private static String findIndexEntry(List<String> index, String token) {
         for (String entry : index) {
-            if (entry.startsWith(token + ": ")) {
+            if (entry.startsWith(token + ":")) {
                 return entry;
             }
         }

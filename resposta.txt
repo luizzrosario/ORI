@@ -1,19 +1,9 @@
-9
-casa
-
-casa
-1,1
+4
 engracada
 
 engracada
-1,1
-casa
-2,1
-casa
-2,1
-casa
-2,1
-casa
-2,1
-casa
-3,1
+1,2
+favor
+
+favor
+3,4

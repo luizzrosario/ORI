@@ -3,45 +3,45 @@ era: 1,1
 casa:
 casa: 1,1
 muito:
-muito: 1,1
+muito: 1,2
 engracada:
-engracada: 1,1
+engracada: 1,2
 tinha:
-tinha: 1,1
+tinha: 1,3
 teto:
-teto: 1,1
-tinha: 1,1
+teto: 1,3
+tinha: 1,4
 nada:
-nada: 1,1
+nada: 1,4
 quem:
 quem: 2,1
 casa: 2,1
 quer:
 quer: 2,1
-casa: 2,1
-quem: 2,1
+casa: 2,2
+quem: 2,2
 mora:
-mora: 2,1
-casa: 2,1
+mora: 2,3
+casa: 2,3
 tambem:
-tambem: 2,1
-quer: 2,1
-casa: 2,1
+tambem: 2,4
+quer: 2,4
+casa: 2,4
 quer: 3,1
 casar:
 casar: 3,1
 comigo:
-comigo: 3,1
+comigo: 3,2
 amor:
-amor: 3,1
-quer: 3,1
-casar: 3,1
-comigo: 3,1
+amor: 3,2
+quer: 3,3
+casar: 3,3
+comigo: 3,3
 faca:
-faca: 3,1
+faca: 3,4
 favor:
-favor: 3,1
-mora: 3,1
+favor: 3,4
+mora: 3,5
 minha:
-minha: 3,1
-casa: 3,1
+minha: 3,5
+casa: 3,6

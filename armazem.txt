@@ -47,9 +47,9 @@ public class Main {
 
                         int entryIndex = index.indexOf(entry);
                         if (entryIndex != -1) {
-                            index.set(entryIndex, entry);
+                            index.set(entryIndex, entry.trim());
                         } else {
-                            index.add(entry);
+                            index.add(entry.trim());
                         }
                     }
                 }
