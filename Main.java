@@ -29,6 +29,7 @@ public class Main{
     System.out.println(palavrasValidas.toString());
 
     Manipulacao.constroiIndice(caminhosArquivosBase,palavrasValidas,palavrasDesconsideradas,"indice.txt");
-
+    List<String>consultaProcessada=Manipulacao.processarConsulta(consulta,palavrasValidas,caminhosArquivosBase);
+    Manipulacao.escreveResposta(consultaProcessada, "resposta.txt");
   }
 }
