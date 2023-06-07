@@ -1,9 +1,3 @@
-4
-engracada
-
-engracada
-1,2
-favor
-
-favor
-3,4
+2
+a.txt
+c.txt

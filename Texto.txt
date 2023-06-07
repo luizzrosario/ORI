@@ -1,0 +1,53 @@
+a.txt é
+
+era uma casa
+muito engracada.
+nao tinha teto,
+nao tinha nada 
+
+b.txt é 
+
+quem casa quer 
+casa. quem nao
+mora em casa,
+tambem quer casa! 
+
+c.txt é 
+
+quer casar
+comigo, amor?
+quer casar comigo
+faca o favor!
+mora na minha
+casa!
+
+conjunto.txt é 
+
+a.txt
+b.txt
+c.txt
+
+consulta.txt é 
+
+engracada;favor
+
+desconsideradas.txt é
+
+o
+a
+e
+de
+da
+das
+do
+das
+na
+nas
+no
+nas
+em
+nao
+um
+uns
+uma
+umas
